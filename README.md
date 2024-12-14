@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash4O
 - 👀 I’m interested in Ai&Ml , CyebrSecurity ,Problem Solving
-- 🌱 I’m currently learning DSA using C++
+- 🌱 I’m currently learning Java!
 - 📫 How to reach me akashkolde342@gmail.com
 
 <!---
